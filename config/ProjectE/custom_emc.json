@@ -1,4 +1,20 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "ic2:plate|3",
+      "emc": 412
+    },
+    {
+      "item": "ic2:plate|1",
+      "emc": 312
+    },
+    {
+      "item": "ic2:cable|0",
+      "emc": 156
+    },
+    {
+      "item": "ic2:crafting|1",
+      "emc": 1476
+    }
+  ]
 }
