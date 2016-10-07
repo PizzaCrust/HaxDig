@@ -12,3 +12,5 @@ This modpack cannot be distributed from other than the Technic platform without 
   - Pretty self-explanatory. Contains mods; may contain coremods in later versions of Forge/FML.
 - **config**
   - Mod configurations are to be placed here. (USUALLY) Some may be placed in seperate locations depending on the mod.
+- **target** (excluded from target zip)
+  - Every commit requires a build of HaxDig, by building and compressing **bin, config, mods**.
