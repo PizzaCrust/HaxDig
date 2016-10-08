@@ -14,3 +14,5 @@ This modpack cannot be distributed from other than the Technic platform without 
   - Mod configurations are to be placed here. (USUALLY) Some may be placed in seperate locations depending on the mod.
 - **target** (excluded from target zip)
   - Every commit requires a build of HaxDig, by building and compressing **bin, config, mods**.
+- **server** (excluded from target zip)
+  - New versions of the modpack, a server version has been builded.
